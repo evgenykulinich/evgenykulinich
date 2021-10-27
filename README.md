@@ -10,11 +10,11 @@
 <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
 <a href="https://github.com/kulinichevgeny">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="180px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="175px"/>
 </a>
 
 <a href="https://github.com/kulinichevgeny"> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" height="180px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" height="175px"/>
 </a>
 
 <br><br><br><br><br><br><br><br><br>
