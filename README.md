@@ -10,17 +10,17 @@
 <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
 <a href="https://github.com/kulinichevgeny">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="175px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" width="52%"/>
 </a>
 
 <a href="https://github.com/kulinichevgeny"> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" height="175px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" width="45%"/>
 </a>
 
 <br><br><br><br><br><br><br><br><br>
 
 ---
 
-### <img height="40" src="img/html.svg" align="center" title="HTML">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/css.svg" align="center" title="CSS">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/js.svg" align="center" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/node.svg" align="center" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/react.svg" align="center" title="React.js">&nbsp;&nbsp;&nbsp;<img height="40" src="img/redux.svg" align="center" title="Redux">&nbsp;&nbsp;&nbsp;<img height="47" src="img/sass.svg" align="center" title="Sass/SCSS">&nbsp;&nbsp;&nbsp;<img height="30" src="img/less.svg" align="center" title="{Less}">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/pug.svg" align="center" title="Pug/Jade">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/git.svg" align="center" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/gulp.svg" align="top" title="Gulp">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/webpack.svg" align="center" title="Webpack">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/bootstrap.svg" align="center" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;<img height="36" src="img/material.svg" align="center" title="Material-UI">
+### <img height="40" src="img/html.svg" align="center" title="HTML">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/css.svg" align="center" title="CSS">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/js.svg" align="center" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/typescript.svg" align="center" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/node.svg" align="center" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/react.svg" align="center" title="React.js">&nbsp;&nbsp;&nbsp;<img height="40" src="img/redux.svg" align="center" title="Redux">&nbsp;&nbsp;&nbsp;<img height="47" src="img/sass.svg" align="center" title="Sass/SCSS">&nbsp;&nbsp;&nbsp;<img height="30" src="img/less.svg" align="center" title="{Less}">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/pug.svg" align="center" title="Pug/Jade">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/git.svg" align="center" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img height="44" src="img/gulp.svg" align="top" title="Gulp">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/webpack.svg" align="center" title="Webpack">&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="img/bootstrap.svg" align="center" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;<img height="36" src="img/material.svg" align="center" title="Material-UI">
 
 <!-- https://igtype.onhype.site/ font№37 -->
