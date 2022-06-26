@@ -17,7 +17,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" height="175"/>
 </a>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
