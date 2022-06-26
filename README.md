@@ -10,7 +10,7 @@
 <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
 <a href="https://github.com/kulinichevgeny">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" width="52%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" width="50%"/>
 </a>
 
 <a href="https://github.com/kulinichevgeny"> 
