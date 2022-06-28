@@ -1,4 +1,4 @@
-# Hi, lovely to see you! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" height="34x" align="top">
+# Hi, lovely to see you <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" height="34x" align="top">
 
 <!-- <a href="https://github.com/kulinichevgeny">
   	<img align="right" alt="GIF" src="code.gif" width="auto" height="320px" />
@@ -18,6 +18,10 @@
 </a>
 
 <br><br><br><br><br><br><br><br>
+
+<h3>Spotify is now playing 🎧</h3>
+
+[![Spotify](https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff)](https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c)
 
 ---
 
