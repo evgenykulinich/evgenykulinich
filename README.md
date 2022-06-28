@@ -25,7 +25,7 @@
 <br><br><br><br><br><br><br><br><br>
 
 <a href="https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c">
-  <img align="left" src="https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff" width="445"/>
+  <img align="left" src="https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff" width="435"/>
 </a>
 
 <br><br><br><br><br>
