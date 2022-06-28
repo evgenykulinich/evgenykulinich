@@ -14,7 +14,7 @@
 
 <h3>𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 🎧</h3>
 
-<a href="https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c">
+<a href="https://open.spotify.com/user/evgenykulinich">
     <img align="left" src="https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff" width="335"/>
 </a>
 
