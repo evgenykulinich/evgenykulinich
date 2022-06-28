@@ -1,5 +1,5 @@
 <a href="https://github.com/kulinichevgeny">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ABCEE2&height=170&section=header&text=Hi,%20lovely%20to%20see%20you%20👋🏼&fontSize=32&fontColor=CBCCCD&fontAlignY=30"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ABCEE2&height=170&section=header&text=Hi,%20lovely%20to%20see%20you%20👋🏼&fontSize=32&fontColor=1D2025&fontAlignY=30"/>
 </a>
 
 <h3 >GitHub Stats & Top languages</h3>
