@@ -7,11 +7,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react&text_color=C2CBD3&title_color=ABCEE2&icon_color=ABCEE2" height="172"/>
 </a>
 <a href="https://github.com/kulinichevgeny">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" height="172"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" height="172"/>
 </a>
 
 <br>
-
 <h3>𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 🎧</h3>
 <a href="https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c">
     <img align="left" src="https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff" width="335"/>
