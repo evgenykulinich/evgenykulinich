@@ -24,7 +24,7 @@
 
 <br><br><br><br><br><br><br><br><br>
 
-<h3>Spotify is now playing</h3>
+<h3>Spotify is now playing 🎧</h3>
 
 <a href="https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c">
   <img align="left" src="https://novatorem-kulinichevgeny.vercel.app/api/spotify?background_color=20232A&border_color=fff" width="435"/>
