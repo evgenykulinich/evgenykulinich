@@ -1,6 +1,6 @@
 [//]: # (# Hi, lovely to see you 👋🏼)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=57BDDA&height=240&section=header&text=Hi,%20lovely%20to%20see%20you%20👋🏼&fontSize=40&fontColor=CBCCCD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61D9FA&height=175&section=header&text=Hi,%20lovely%20to%20see%20you%20👋🏼&fontSize=40&fontColor=CBCCCD&fontAlignY=30)
 
 [//]: # (<a href="https://github.com/kulinichevgeny">)
 
