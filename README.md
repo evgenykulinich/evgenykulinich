@@ -4,10 +4,10 @@
 
 <h3>GitHub Stats & Top languages</h3>
 <a href="https://github.com/kulinichevgeny">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="172"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react&text_color=C2CBD3&title_color=ABCEE2&icon_color=ABCEE2" height="172"/>
 </a>
 <a href="https://github.com/kulinichevgeny">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=8" height="172"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" height="172"/>
 </a>
 
 <br>
