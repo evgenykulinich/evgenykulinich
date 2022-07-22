@@ -21,14 +21,16 @@
 
 [//]: # (```javascript)
 
+[//]: # ()
 [//]: # (const zhenya = {)
 
+[//]: # ()
 [//]: # (  code: [HTML, CSS, Javascript, Typescript],)
 
-[//]: # (  tools: [React, Redux, Node, Mongo])
+[//]: # ()
+[//]: # (  tools: [React, Redux, Node, Mongo, Material])
 
+[//]: # ()
 [//]: # (})
 
-[//]: # (```)
-
-<!-- https://igtype.onhype.site/ font№42 -->
+[//]: # (https://igtype.onhype.site/ font№42)
