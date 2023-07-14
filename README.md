@@ -2,10 +2,10 @@
 
 <h3>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 & 𝚃𝚘𝚙 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h3>
 <a href="https://github.com/evgenykulinich">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evgenykulinich&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&text_color=C2CBD3&title_color=ABCEE2&icon_color=ABCEE2" width="425"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evgenykulinich&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&text_color=C2CBD3&title_color=ABCEE2&icon_color=ABCEE2" width="400"/>
 </a>
 <a href="https://github.com/evgenykulinich">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenykulinich&hide_title=true&hide_border=true&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" width="369"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenykulinich&hide_title=true&hide_border=true&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" width="360"/>
 </a>
 <br><br>
 
