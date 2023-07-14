@@ -12,7 +12,9 @@
 <br><br>
 
 <h3>𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚙𝚕𝚊𝚢𝚒𝚗𝚐</h3>
+
 [![Spotify](https://novatorem-evgenykulinich.vercel.app/api/spotify?background_color=20232A&border_color=0)](https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c)
+
 <br><br>
 
 <h3>𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔</h3> 
