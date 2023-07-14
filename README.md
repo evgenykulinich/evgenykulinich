@@ -15,7 +15,7 @@
 <a href="https://open.spotify.com/user/bcl7grf4acolhw8dsjexd07u2?si=b2445b763c00424c">
 <img align="left" src="https://novatorem-evgenykulinich.vercel.app/api/spotify?background_color=20232A&border_color=0" width="425"/>
 </a>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h3>𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔</h3>
 
