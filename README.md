@@ -1,6 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:2C4159,45:AACCE1,70:ABCEE2,100:2C4159&height=170&section=header&text=𝙷𝚒,%20𝚕𝚘𝚟𝚎𝚕𝚢%20𝚝𝚘%20𝚜𝚎𝚎%20𝚢𝚘𝚞%20👋🏼&fontSize=32&fontColor=1D2025&fontAlignY=30)]()
 
-<p align="center"><img src="./img/about.png" width="800" /></p>
+<p align="center"><img src="./img/about.png" width="850" /></p>
 
 <h3>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 & 𝚃𝚘𝚙 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h3>
 <a href="https://github.com/evgenykulinich">
