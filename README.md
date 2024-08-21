@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:6e88b8,30:96aacd,50:b9c7df,70:96aacd,100:6e88b8&height=170&section=header&text=𝘏𝘪,%20𝘭𝘰𝘷𝘦𝘭𝘺%20𝘵𝘰%20𝘴𝘦𝘦%20𝘺𝘰𝘶%20👋🏼&fontSize=32&fontColor=22272e&fontAlignY=30)]()
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:6e88b8,30:96aacd,50:b9c7df,70:96aacd,100:6e88b8&height=170&section=header&text=Hi,%20lovely%20to%20see%20you%20👋🏼&fontSize=32&fontColor=22272e&fontAlignY=30)]()
 
 <p align="center"><img src="./img/about.png" width="850" /></p>
 
